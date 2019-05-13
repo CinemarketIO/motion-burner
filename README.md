@@ -1,6 +1,6 @@
 # Motion Burner Wallet
 
-Based on https://github.com/austintgriffith/burner-wallet. But based on LeapDAO's Plasma with NFT and distributed breeding support. 
+Based on https://github.com/austintgriffith/burner-wallet. But using LeapDAO's Plasma implementation with NFT and distributed breeding support. 
 
 ## Installation
 
